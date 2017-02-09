@@ -7,7 +7,10 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 Thank you for sharing this challenge with me! 😺
 
 * [JS Drum Kit](https://kteich88.github.io/JavaScript30/JS-Drum-Kit/)
-<!-- * [JS CSS Clock](https://kteich88.github.io/JavaScript30/JS-CSS-Clock/)
+
+Coming Soon...
+
+* [JS CSS Clock](https://kteich88.github.io/JavaScript30/JS-CSS-Clock/)
 * [CSS Variables](https://kteich88.github.io/JavaScript30/CSS-Variables/)
 * [Array Cardio Day 1](https://kteich88.github.io/JavaScript30/Array-Cardio-Day-1/)
 * [Flex Panel Gallery](https://kteich88.github.io/JavaScript30/Flex-Panel-Gallery/)
@@ -35,4 +38,4 @@ Thank you for sharing this challenge with me! 😺
 * [Click & Drag](https://kteich88.github.io/JavaScript30/Click-and-Drag/)
 * [Video Speed Controller](https://kteich88.github.io/JavaScript30/Video-Speed-Controller/)
 * [Countdown Timer](https://kteich88.github.io/JavaScript30/Countdown-Timer/)
-* [Whack A Mole](https://kteich88.github.io/JavaScript30/Whack-A-Mole/) -->
+* [Whack A Mole](https://kteich88.github.io/JavaScript30/Whack-A-Mole/)
