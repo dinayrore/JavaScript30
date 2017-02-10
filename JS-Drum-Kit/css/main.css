@@ -54,3 +54,9 @@ div#hihat {
   position: relative;
   top: 100px;
 }
+
+div#clap {
+  position: relative;
+  right: 10px;
+  bottom: 200px;
+}
