@@ -48,3 +48,9 @@ kbd {
   letter-spacing: .1rem;
   color: #ffc600;
 }
+
+
+div#hihat {
+  position: relative;
+  top: 100px;
+}
