@@ -49,7 +49,6 @@ kbd {
   color: #ffc600;
 }
 
-
 div#hihat {
   position: relative;
   top: 100px;
@@ -68,12 +67,18 @@ div#snare {
 }
 
 div#tom {
-    position: relative;
-    bottom: 140px;
-    left: 5px;
+  position: relative;
+  bottom: 140px;
+  left: 5px;
 }
 
 div#boom {
-    position: relative;
-    top: 250px;
+  position: relative;
+  top: 250px;
+}
+
+div#ride {
+  position: relative;
+  bottom: 150px;
+  left: 75px;
 }
