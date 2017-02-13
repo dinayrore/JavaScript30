@@ -72,3 +72,8 @@ div#tom {
     bottom: 140px;
     left: 5px;
 }
+
+div#boom {
+    position: relative;
+    top: 250px;
+}
