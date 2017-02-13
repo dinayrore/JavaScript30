@@ -60,3 +60,9 @@ div#clap {
   left: -10px;
   bottom: 165px;
 }
+
+div#snare {
+  position: relative;
+  top: 130px;
+  left: 80px;
+}
