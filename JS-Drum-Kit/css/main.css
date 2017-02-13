@@ -88,3 +88,8 @@ div#kick {
   top: 125px;
   right: 100px;
 }
+
+div#tink {
+    position: relative;
+    top: 210px;
+}
