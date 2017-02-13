@@ -82,3 +82,9 @@ div#ride {
   bottom: 150px;
   left: 75px;
 }
+
+div#kick {
+  position: relative;
+  top: 125px;
+  right: 100px;
+}
