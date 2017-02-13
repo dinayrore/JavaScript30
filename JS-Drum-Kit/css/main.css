@@ -89,7 +89,12 @@ div#kick {
   right: 100px;
 }
 
+div#openhat {
+  position: relative;
+  left: 125px;
+}
+
 div#tink {
-    position: relative;
-    top: 210px;
+  position: relative;
+  top: 210px;
 }
